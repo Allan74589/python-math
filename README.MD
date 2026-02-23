@@ -1,4 +1,4 @@
-# 📊 Math Python
+# 📊 python-math
 
 Coleção de programas em Python desenvolvidos para praticar lógica de programação e cálculos matemáticos.
 O projeto reúne várias ferramentas de cálculo com explicação passo a passo no terminal.
